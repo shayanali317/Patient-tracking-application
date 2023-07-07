@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Patient Tracking Application</string>
+    <string name="welcome_doctor">WELCOME DOCTOR</string>
+    <string name="login">Login</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="select_patient">SELECT PATIENT</string>
+    <string name="old">old</string>
+    <string name="NEW">new</string>
+    <string name="old_patient">OLD PATIENT</string>
+    <string name="disease">DISEASE</string>
+    <string name="recover">RECOVER</string>
+    <string name="andrew">Andrew</string>
+    <string name="name">NAME</string>
+    <string name="diabetes">Diabetes</string>
+    <string name="diabetess">Diabetes</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+    <string name="yess">YES</string>
+    <string name="noo">NO</string>
+    <string name="anxiety">Anxiety</string>
+    <string name="depression">Depression</string>
+    <string name="infection">Infection</string>
+    <string name="parker">Parker</string>
+</resources>
